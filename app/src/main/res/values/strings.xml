@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Landscape Design</string>
+    <string name="text">THIS IS MY TEXT</string>
+    <string name="button">THIS IS MY BUTTON</string>
+    <string name="checkbox">THIS IS MY CHECKBOX</string>
+    <string name="switch_activity">SWITCH TO NEXT ACTIVITY</string>
+    <string name="hint_button">New value for button?</string>
+    <string name="hint_checkbox">New value for checkbox?</string>
+    <string name="hint_text">New value for text?</string>
+    <string name="done">DONE!</string>
+</resources>
